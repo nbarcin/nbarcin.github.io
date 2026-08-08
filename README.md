@@ -1,23 +1,20 @@
-# Nihal Barcin Portfolio v2
+# Nihal Barcin Portfolio v3
 
-A clean static portfolio website ready for GitHub Pages.
-
-## Included
+Updated portfolio website with:
 - About Me
-- Certification sections
-- GitHub, Kaggle, Hugging Face, and LinkedIn links
+- Research & Presentations
+- Certifications
+- GitHub / Kaggle / Hugging Face / LinkedIn links
 - Responsive design
 
 ## Publish on GitHub Pages
-1. Create a GitHub repository, for example `portfolio`.
+1. Create or open your portfolio repository.
 2. Upload `index.html`, `styles.css`, and `script.js`.
 3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Choose `main` and `/(root)`.
+4. Choose **Deploy from a branch**.
+5. Select `main` and `/(root)`.
 6. Save.
 
-Your site will be published at a GitHub Pages URL.
-
 ## Custom domain
-You can later add `nihalbarcin.com` under:
+Later, add `nihalbarcin.com` under:
 **Settings → Pages → Custom domain**
